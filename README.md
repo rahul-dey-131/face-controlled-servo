@@ -61,8 +61,8 @@ Just like that, you’ve got face-to-servo motion!
 ### 🗂️ File Overview
 
 * `faceMeshModule.py` – Modular class for face landmark detection using MediaPipe.
-* `faceMovement.py` – Main script to capture face movement and send angles to Arduino.
-* `servo_control.ino` – Arduino sketch to rotate the servo based on received angles.
+* `faceMovement.py`   – Main script to capture face movement and send angles to Arduino.
+* `eyeController.ino` – Arduino sketch to rotate the servo based on received angles.
 
 ---
 
